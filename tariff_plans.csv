@@ -1,0 +1,26 @@
+tariff_plan_id,plan_name,monthly_fee,free_minutes,free_internet_mb
+10,Sade Plan,54.04,100,15360
+20,Super Plan,25.63,200,2048
+30,Biznes Limitsiz,56.72,1000,2048
+40,Eko Plan,50.52,100,1024
+50,Mega Paket,14.75,200,1024
+60,Genc Telekom,48.41,2000,51200
+70,Telekom Start,23.87,1000,15360
+80,Gold Business,66.28,100,5120
+90,Platinum Premium,58.27,300,15360
+100,Aila Paket,19.19,5000,30720
+110,Gece Tarif,15.36,500,2048
+120,Sosial Paket,33.85,300,15360
+130,Region Tarit,66.11,2000,102400
+140,Unikal 10,46.61,500,2048
+150,Premium Max,47.75,5000,30720
+160,Smart Life,49.57,2000,2048
+170,Ultrafast Data,11.3,200,15360
+180,Talk & Text,78.94,5000,10240
+190,Corporate Elite,70.39,500,15360
+200,Mini Tarif,40.65,5000,30720
+210,Student Special,19.71,300,10240
+220,VIP Global,56.25,2000,2048
+230,Weekend Fun,51.86,200,10240
+240,Basic Voice,19.76,500,15360
+250,Ultimate Data,79.25,2000,10240
